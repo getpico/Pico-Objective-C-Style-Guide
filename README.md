@@ -1,4 +1,4 @@
-Pico-Objective-C-Style-Guide
+Pico Objective-C style guide
 ============================
 
 These guidelines are founded on Apple's existing Coding Guidelies for Cocoa, such that if something is not explicitly stated below, it's a good idea to defer to Apple's style guide.
