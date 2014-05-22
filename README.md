@@ -112,4 +112,4 @@ No.
 
 Per usual, there should only be one blank line between the parts of a header file (e.g., between the `#import` statements, the properties and the methods, etc.).
 
-There is an order in which property attributes should be listed. `nonatomic` should always be first, followed by either `retain` or `assign`. After that should be the optional `readonly`.
+There is an order in which property attributes should be listed. `nonatomic` should always be first, followed by either `strong` or `weak`. After that should be the optional `readonly`.
